@@ -1,5 +1,28 @@
 /* FONT */
-/* font-family: 'Yanone Kaffeesatz', sans-serif; */
+body {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: #453D3D;
+    background-color: #B4E4E6;
+    letter-spacing: 1px;
+    font-weight: lighter;
+}
+
+h1 {
+    font-size: 35px;
+    letter-spacing: 3px;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: 22px;
+    letter-spacing: 2px;
+    font-weight: 300;
+}
+
+.icon {
+    height: 90px;
+}
+
 
 /* COLORS */
 /* background color -> #B4E4E6 */
